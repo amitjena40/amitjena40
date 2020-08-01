@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! It's Amit! 👋
 
 <!--
 **amitjena40/amitjena40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
